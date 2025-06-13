@@ -2,7 +2,7 @@
 
 A simple vertical platformer built with **HTML**, **CSS**, and **JavaScript** inspired by the classic Mario jump mechanic.
 
-![Gameplay](https://github.com/user-attachments/assets/48644209-0f28-4871-af3a-6fd2ac16593c)
+<img src="https://github.com/user-attachments/assets/48644209-0f28-4871-af3a-6fd2ac16593c" width="300">
 
 > ### ▶️ [Play Now on GitHub Pages](https://znahamama.github.io/Mario_Jump/)
 
